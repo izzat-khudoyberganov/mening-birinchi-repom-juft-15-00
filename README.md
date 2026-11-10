@@ -1,1 +1,1 @@
-	# Mening birinchi repom
+	#Mening birinchi repom
